@@ -5,7 +5,7 @@ This project uses  Python and OpenCV to identify the lane boundaries in a video.
 ![](/projectVideo.gif)
 
 
-#The Project
+## The Project
 ---
 
 The steps of this project are the following:
